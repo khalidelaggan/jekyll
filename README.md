@@ -1,4 +1,4 @@
-Awesome Series @ Planet Jekyll
+Awesome Series @ khalid
 
 [Jekyll](https://github.com/planetjekyll/awesome-jekyll) •
 [Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes) •
